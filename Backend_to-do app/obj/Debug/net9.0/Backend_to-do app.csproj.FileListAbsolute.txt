@@ -1,0 +1,112 @@
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/appsettings.Development.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/appsettings.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.staticwebassets.endpoints.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.deps.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.runtimeconfig.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.pdb
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Backend_to-do app.xml
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Humanizer.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Npgsql.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.CodeDom.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.csproj.AssemblyReference.cache
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.AssemblyInfoInputs.cache
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.AssemblyInfo.cs
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.csproj.CoreCompileInputs.cache
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.MvcApplicationPartsAssemblyInfo.cs
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.MvcApplicationPartsAssemblyInfo.cache
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/scopedcss/bundle/Backend_to-do app.styles.css
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets.build.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets.development.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets/msbuild.Backend_to-do app.Microsoft.AspNetCore.StaticWebAssets.props
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets/msbuild.Backend_to-do app.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets/msbuild.build.Backend_to-do app.props
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Backend_to-do app.props
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Backend_to-do app.props
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/staticwebassets.pack.json
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_.6B8EC5F5.Up2Date
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/refint/Backend_to-do app.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.xml
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.pdb
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/Backend_to-do app.genruntimeconfig.cache
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/obj/Debug/net9.0/ref/Backend_to-do app.dll
+/home/leonardo/RiderProjects/Backend_to-do app/Backend_to-do app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Annotations.dll

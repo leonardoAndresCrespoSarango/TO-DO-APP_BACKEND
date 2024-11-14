@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Backend_to-do app</name>
+    </assembly>
+    <members>
+        <member name="T:TasksController">
+            <summary>
+            Controlador API para gestionar las tareas en la aplicación de gestión de tareas.
+            Proporciona endpoints para obtener, agregar, completar y eliminar tareas, así como para obtener estadísticas de las tareas.
+            </summary>
+        </member>
+        <member name="M:TasksController.#ctor(Backend_to_do_app.DB_Data.ApplicationDbContext)">
+            <summary>
+            Inicializa una nueva instancia de <see cref="T:TasksController"/> con el contexto de base de datos proporcionado.
+            </summary>
+            <param name="context">El contexto de base de datos utilizado para interactuar con la tabla de tareas.</param>
+        </member>
+        <member name="M:TasksController.GetTasks">
+            <summary>
+            Obtiene todas las tareas no eliminadas de la base de datos.
+            </summary>
+            <returns>Una lista de tareas no eliminadas.</returns>
+        </member>
+        <member name="M:TasksController.AddTask(Backend_to_do_app.Models.Task)">
+            <summary>
+            Agrega una nueva tarea a la base de datos.
+            </summary>
+            <param name="newTask">Los datos de la nueva tarea a agregar.</param>
+            <returns>La tarea recién creada.</returns>
+        </member>
+        <member name="M:TasksController.CompleteTask(System.Int32)">
+            <summary>
+            Marca una tarea como completada.
+            </summary>
+            <param name="id">El identificador de la tarea a completar.</param>
+            <returns>Una respuesta vacía indicando éxito o un error si la tarea no fue encontrada.</returns>
+        </member>
+        <member name="M:TasksController.DeleteTask(System.Int32)">
+            <summary>
+            Elimina lógicamente una tarea, marcándola como eliminada en lugar de eliminarla físicamente de la base de datos.
+            </summary>
+            <param name="id">El identificador de la tarea a eliminar.</param>
+            <returns>Una respuesta vacía indicando éxito o un error si la tarea no fue encontrada.</returns>
+        </member>
+        <member name="M:TasksController.GetTaskStatistics">
+            <summary>
+            Obtiene estadísticas sobre las tareas, incluyendo la cantidad de tareas completadas, no completadas y eliminadas.
+            </summary>
+            <returns>Un objeto con el número de tareas completadas, no completadas y eliminadas.</returns>
+        </member>
+        <member name="T:Backend_to_do_app.DB_Data.ApplicationDbContext">
+            <summary>
+            Representa el contexto de base de datos para la app.
+            Proporciona acceso a las entidades y permite configurar las propiedades y relaciones de la base de datos.
+            </summary>
+        </member>
+        <member name="M:Backend_to_do_app.DB_Data.ApplicationDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Backend_to_do_app.DB_Data.ApplicationDbContext})">
+            <summary>
+            Inicializa una nueva instancia de <see cref="T:Backend_to_do_app.DB_Data.ApplicationDbContext"/> con las opciones especificadas.
+            </summary>
+            <param name="options">Las opciones para configurar el contexto de base de datos.</param>
+        </member>
+        <member name="P:Backend_to_do_app.DB_Data.ApplicationDbContext.Tasks">
+            <summary>
+            Obtiene o establece la tabla de tareas en la base de datos.
+            </summary>
+        </member>
+        <member name="M:Backend_to_do_app.DB_Data.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <summary>
+            Configura el modelo de datos para la base de datos mediante la definición de restricciones y propiedades de la entidad.
+            </summary>
+            <param name="modelBuilder">El generador de modelos que se utiliza para configurar las entidades de la base de datos.</param>
+        </member>
+        <member name="T:Backend_to_do_app.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:Backend_to_do_app.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Backend_to_do_app.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Backend_to_do_app.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Backend_to_do_app.Models.Task">
+            <summary>
+            Representa una tarea dentro de la aplicación de gestión de tareas.
+            </summary>
+        </member>
+        <member name="P:Backend_to_do_app.Models.Task.Id">
+            <summary>
+            Establece el identificador único de la tarea.
+            </summary>
+        </member>
+        <member name="P:Backend_to_do_app.Models.Task.Title">
+            <summary>
+            Establece el título o nombre de la tarea.
+            </summary>
+        </member>
+        <member name="P:Backend_to_do_app.Models.Task.IsCompleted">
+            <summary>
+            Indica si la tarea está completada.
+            </summary>
+        </member>
+        <member name="P:Backend_to_do_app.Models.Task.IsDeleted">
+            <summary>
+            Indica si la tarea está eliminada de forma lógica.
+            </summary>
+            <remarks>
+            Esta propiedad se utiliza para manejar una eliminación lógica de la tarea,
+            lo que permite que la tarea sea marcada como eliminada sin eliminarla de la base de datos.
+            </remarks>
+        </member>
+        <member name="P:Backend_to_do_app.Models.Task.CreatedAt">
+            <summary>
+            Establece la fecha y hora de creación de la tarea.
+            </summary>
+            <remarks>
+            Esta propiedad se inicializa automáticamente con la fecha y hora actual al crear una nueva instancia de la tarea.
+            </remarks>
+        </member>
+        <member name="T:TaskHub">
+            <summary>
+            Clase Hub de SignalR para enviar actualizaciones de estadísticas de tareas en tiempo real a los clientes conectados.
+            </summary>
+        </member>
+        <member name="M:TaskHub.SendStatisticsUpdate(System.Object)">
+            <summary>
+            Método para enviar una actualización de estadísticas a todos los clientes.
+            </summary>
+            <param name="stats">El objeto con las estadísticas de tareas a enviar.</param>
+        </member>
+    </members>
+</doc>
